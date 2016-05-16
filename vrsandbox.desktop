@@ -2,7 +2,7 @@
 Type=Application
 Name=Virtual Reality Sandbox
 Comment=Start the previously calibrated version of the virtual reality sandbox.
-Exec=/home/coderdojo/vrsandbox/startup.sh
+Exec=/home/coderdojo/vrsandbox/04-run.sh
 #OnlyShowIn=GNOME;
 NoDisplay=false
 Terminal=true
