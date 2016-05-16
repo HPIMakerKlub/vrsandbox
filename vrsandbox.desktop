@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Virtual Reality Sandbox
+Comment=Start the previously calibrated version of the virtual reality sandbox.
+Exec=/home/coderdojo/vrsandbox/startup.sh
+#OnlyShowIn=GNOME;
+NoDisplay=false
+Terminal=true

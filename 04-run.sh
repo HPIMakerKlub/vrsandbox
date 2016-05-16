@@ -56,5 +56,6 @@ echo "Use Win+f to go into fullscreen mode."
 #  -cp <control pipe name>
 #     Sets the name of a named POSIX pipe from which to read control commands
 
-./SARndbox-1.6/bin/SARndbox -fpv
+./SARndbox-1.6/bin/SARndbox -fpv 
+-wts 320 240
 
