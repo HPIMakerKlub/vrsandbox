@@ -8,6 +8,7 @@ then
   sleep 1
   echo "trying fullscreen combination"
   xdotool keydown super key f keyup super
+  xdotool mousemove `xdpyinfo | awk '/dimensions/{print $2}' | sed "s/x/ /"`
   exit 0
 else
   echo "Install \"xdotool\" to start in fullscreen mode."
