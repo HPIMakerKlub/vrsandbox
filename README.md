@@ -5,5 +5,5 @@
 
 ## Installation
 
-- You can install the software from the [master branch](https://github.com/HPIMakerKlub/vrsandbox/tree/gh-pages).
+- You can install the software from the [master branch](https://github.com/HPIMakerKlub/vrsandbox/tree/master#readme).
 
